@@ -1,3 +1,5 @@
+<img src="https://github.com/henrikvilhelmberglund/henrikvilhelmberglund.github.io/raw/main/qr/GithubPageStatic.svg" alt="QR code for my Github Page" width="250"/>
+
 - 👋 Hi, I’m @henrikvilhelmberglund, currently studying Frontend at Nackademin!
 - 👀 I’m interested in ...
 - Javascript, CSS, HTML, frameworks
