@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on ...
 - nothing right now
 - 📫 How to reach me ...
-https://www.linkedin.com/in/henrik-berglund-a5271351/
+www.linkedin.com/in/henrikvilhelmberglund
 
 <!---
 henrikvilhelmberglund/henrikvilhelmberglund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
