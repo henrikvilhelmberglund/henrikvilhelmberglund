@@ -1,8 +1,8 @@
-<img src="https://github.com/henrikvilhelmberglund/henrikvilhelmberglund.github.io/blob/main/static/GithubPageStatic.png?raw=true" alt="QR code for my Github Page" width="250"/>
+[Portfolio site](https://henrikvilhelmberglund.com)
 
 - 👋 Hi, I’m @henrikvilhelmberglund, currently studying Frontend at Nackademin!
 - 👀 I’m interested in ...
-- Javascript, CSS, HTML, frameworks
+- Javascript, Svelte, CSS, UnoCSS/Tailwind, HTML,
 - but also
 - music, 3d graphics, languages
 - 🌱 I’m currently learning ...
@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on ...
 - nothing right now
 - 📫 How to reach me ...
-www.linkedin.com/in/henrikvilhelmberglund
+[LinkedIn](www.linkedin.com/in/henrikvilhelmberglund)
 
 <!---
 henrikvilhelmberglund/henrikvilhelmberglund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
