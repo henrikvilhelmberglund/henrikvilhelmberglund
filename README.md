@@ -10,8 +10,8 @@
 - 💞️ I’m looking to collaborate on ...
 - nothing right now
 - 📫 How to reach me ...
-[LinkedIn](linkedin.com/in/henrikvilhelmberglund)
-[Twitter](twitter.com/henrikvberglund)
+[LinkedIn](http://linkedin.com/in/henrikvilhelmberglund)
+[Twitter](http://twitter.com/henrikvberglund)
 gmail: henrikvilhelmberglund
 
 <!---
