@@ -6,11 +6,13 @@
 - but also
 - music, 3d graphics, languages
 - 🌱 I’m currently learning ...
-- Javascript, CSS, HTML
+- Svelte+SvelteKit, React, Javascript, UnoCSS/Tailwind, CSS, HTML, a11y, i18n, Threlte
 - 💞️ I’m looking to collaborate on ...
 - nothing right now
 - 📫 How to reach me ...
-[LinkedIn](www.linkedin.com/in/henrikvilhelmberglund)
+[LinkedIn](linkedin.com/in/henrikvilhelmberglund)
+[Twitter](twitter.com/henrikvberglund)
+gmail: henrikvilhelmberglund
 
 <!---
 henrikvilhelmberglund/henrikvilhelmberglund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
