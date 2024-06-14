@@ -1,6 +1,6 @@
 [Portfolio site](https://henrikvilhelmberglund.com)
 
-- 👋 Hi, I’m @henrikvilhelmberglund, currently studying Frontend at Nackademin!
+- 👋 Hi, I’m @henrikvilhelmberglund! I previously studied Frontend Development at Nackademin.
 - 👀 I’m interested in ...
 - Javascript, Svelte, CSS, UnoCSS/Tailwind, HTML,
 - but also
